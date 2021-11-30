@@ -3,7 +3,8 @@
   - https://nextjs.org/
   
 * 설치
+  - https://nextjs.org/docs/basic-features/typescript
   ```
   npx create-next-app@latest --ts
   ```
-  - https://nextjs.org/docs/basic-features/typescript
+  
